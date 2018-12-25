@@ -1,0 +1,23 @@
+# Setup
+title: My Personal Wiki
+url: https://wiki.xheni.me
+author:
+  name: xheni
+  url: https://xheni.me
+ga_id: todo
+host: 10.211.55.4
+
+sass:
+  sass_dir: public/css
+  style: compressed
+
+exclude:
+  - "*.sh"
+  - "Dockerfile"
+  - "Gemfile*"
+  - "LICENSE"
+  - "README.md"
+  - "CNAME"
+
+gems:
+  - jekyll-sitemap
