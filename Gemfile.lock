@@ -242,9 +242,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  gemoji
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll
+  jemoji
 
 BUNDLED WITH
    1.12.6

@@ -7,5 +7,5 @@ title: Welcome to my personal wiki
 
 <div class="message">
   Howdy!
-  This personal wiki contains a collection of links, notes, resources etc about security stuff and not only. by <a href="https://xheni.me" target="\_blank" > Xheni </a>.
+  This personal wiki contains a collection of links, notes, resources etc about security stuff and not only.
 </div>
