@@ -32,6 +32,7 @@ title: Online Resources
 - [Ivan Ristić](https://blog.ivanristic.com/)
 - [Filippo Valsorda](https://blog.filippo.io/) ([GitHub](https://github.com/FiloSottile))
 - [Moxie Marlinspike](https://moxie.org/) ([GitHub](https://github.com/moxie0))
+- [Lukas Reschke](https://www.statuscode.ch/) ([GitHub](https://github.com/lukasreschke))
 - [Scott Contini](http://www.crypto-world.com/Contini.html) ([Blog](https://littlemaninmyhead.wordpress.com/))
 - [Samy Kamkar](https://samy.pl/)
 - [Scott J Roberts](http://sroberts.io/)
@@ -42,5 +43,7 @@ title: Online Resources
 - https://defuse.ca/
 - http://sandmaxprime.co/
 
-## Organizations
+## Hackerspaces
 ---
+- [Open Labs Hackerspace](https://www.openlabs.cc/)
+- [Prishtina Hackerspace](http://www.prishtinahackerspace.org/)

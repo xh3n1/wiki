@@ -8,18 +8,18 @@ title: Books
 
 ## Cryptology
 ---
-- [Cryptography Engineering](http://amzn.to/2jAorXQ)
+- [Cryptography Engineering](https://amzn.to/2LxYqmo)
 
 ## Application Security
 ---
-- [Threat Modeling: Designing for Security](https://amzn.to/2vKLgwO)
-- [The Tangled Web](https://amzn.to/2uM9zG1)
+- [Threat Modeling: Designing for Security](https://amzn.to/2Sj4DFh)
+- [The Tangled Web: A Guide to Securing Modern Web Applications ](https://amzn.to/2Rgu2SO)
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) by Dafydd Stuttard and Marcus Pinto
 
 ## Mobile Security
 ---
-- [The Mobile Application Hacker's Handbook](http://amzn.to/2FnFN02)
-- [Android Security Internals: An In-Depth Guide to Android's Security Architecture](http://amzn.to/2DTuWxK)
-- [Android Hacker's Handbook](http://amzn.to/2DIYJpP)
-- [iOS Hacker's Handbook](http://amzn.to/2Byak9f)
-- [iOS Application Security: The Definitive Guide for Hackers and Developers](http://amzn.to/2DQDrd4)
+- [The Mobile Application Hacker's Handbook](https://amzn.to/2SnaMAo)
+- [Android Security Internals: An In-Depth Guide to Android's Security Architecture](https://amzn.to/2LyXq1k)
+- [Android Hacker's Handbook](https://amzn.to/2CxK96a)
+- [iOS Hacker's Handbook](https://amzn.to/2R9LIQb)
+- [iOS Application Security: The Definitive Guide for Hackers and Developers](https://amzn.to/2LwXXRz)
