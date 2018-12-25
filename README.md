@@ -1,6 +1,6 @@
 # My Personal Wiki
 
-This wiki contains notes, commands, links, etc. that I have collected.
+This wiki contains a collection of links, notes, resources etc about security stuff and not only.
 
 ```
 git clone https://github.com/xh3n1/wiki
@@ -12,4 +12,4 @@ bundle install && \
 bundle exec jekyll serve
 ```
 ---
-Published by [xheni](https://xheni.me/) with [Jekyll](https://github.com/jekyll/jekyll) using [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme. 
+Published by [xheni](https://xheni.me/) with [Jekyll](https://github.com/jekyll/jekyll) using [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme.

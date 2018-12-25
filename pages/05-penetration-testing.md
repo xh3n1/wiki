@@ -46,7 +46,7 @@ title: Penetration Testing
 - <https://github.com/earthquake/xfltreat/>
 - <https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf>
 - <https://gallery.technet.microsoft.com/ATA-Playbook-ef0a8e38/file/169827/1/ATA%20Playbook.pdf>
--
+
 
 ## Post-Exploitation
 ---

@@ -54,12 +54,12 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 a {
-  color: #ffeb99;
+  color: #4d9900;
   transition: color ease 0.3s;
 }
 
 a:hover {
-  color: #caad00;
+  color: #1f7a1f;
 }
 
 .btn {
@@ -195,12 +195,12 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar links */
 .sidebar a {
-  color: #caad00;
+  color: #1f7a1f;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #caad00;
+  color: #1f7a1f;
   margin-top: 0;
   font-family: 'Noto Serif', serif;
   font-size: 2rem;
@@ -275,7 +275,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #caad00;
+  color: #1f7a1f;
 }
 
 /*
