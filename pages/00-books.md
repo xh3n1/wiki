@@ -14,7 +14,7 @@ title: Books
 ---
 - [Threat Modeling: Designing for Security](https://amzn.to/2vKLgwO)
 - [The Tangled Web](https://amzn.to/2uM9zG1)
-- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition] (https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) by Dafydd Stuttard and Marcus Pinto
+- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470) by Dafydd Stuttard and Marcus Pinto
 
 ## Mobile Security
 ---
