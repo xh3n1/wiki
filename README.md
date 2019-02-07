@@ -1,4 +1,4 @@
-# My Personal Wiki
+# My Personal Wiki :smiley::key:
 
 This wiki contains a collection of links, notes, resources etc about security stuff and not only.
 
