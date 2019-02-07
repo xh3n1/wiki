@@ -5,7 +5,7 @@ This wiki contains a collection of links, notes, resources etc about security st
 ```
 git clone https://github.com/xh3n1/wiki
 ```
-* with `ruby` and `bundle`:
+* Setting up
 ```
 BUNDLE_PATH=.bundle bundle check || \
 bundle install && \
