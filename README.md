@@ -12,4 +12,4 @@ bundle install && \
 bundle exec jekyll serve
 ```
 ---
-Published by [xheni](https://xheni.me/) with [Jekyll](https://github.com/jekyll/jekyll) using [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme.
+Published by [Xheni](https://xheni.me/) with [Jekyll](https://github.com/jekyll/jekyll) using [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme.
