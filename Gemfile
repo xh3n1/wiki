@@ -4,4 +4,4 @@ gem "jekyll"
 gem "github-pages"
 gem 'jemoji'
 gem 'gemoji'
-gem 'http_parser.rb', '~> 0.6.0'
+gem 'http_parser.rb', '~> 0.8.0'
